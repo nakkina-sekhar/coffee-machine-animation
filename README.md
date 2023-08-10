@@ -22,7 +22,7 @@ The **Coffee Machine Animation** project brings a virtual coffee machine to life
 Check here for Screenshot website demo [here]()
 ## Demo
 
-Check out the [live demo](https://your-demo-link.com) to experience the Coffee Machine Animation project in action!
+Check out the [live demo](https://coffee-machine-animation.netlify.app/) to experience the Coffee Machine Animation project in action!
 ## Technologies Used
 
 - HTML5
