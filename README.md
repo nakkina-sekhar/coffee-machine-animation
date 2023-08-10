@@ -19,7 +19,7 @@ Welcome to the **Coffee Machine Animation** project! This is an engaging and int
 The **Coffee Machine Animation** project brings a virtual coffee machine to life through a captivating animation. As users interact with the webpage, they can observe the coffee machine's components working together to brew a delicious cup of coffee. This project not only showcases the creative possibilities of web development but also provides an enjoyable experience for visitors.
 
 ## Website
-Check here for Screenshot website demo [here]()
+Check here for Screenshot website demo [here](https://github.com/nakkina-sekhar/coffee-machine-animation/blob/main/website/website_demo.jpg)
 ## Demo
 
 Check out the [live demo](https://coffee-machine-animation.netlify.app/) to experience the Coffee Machine Animation project in action!
